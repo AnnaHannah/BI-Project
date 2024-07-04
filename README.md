@@ -1,5 +1,3 @@
-Here is the corrected text:
-
 These are two different BI projects:
 
 1) Animal Shelter 
